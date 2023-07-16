@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.tuwiaq p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+.tuwiaq a{
+    text-decoration: none;
+    background-color: aqua;
+    color: 0,200,0;
+}
+
+#TuwaiqIMG img{
+    width: 400px;
+}
+
+.TuwaiqAcademy h3{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #bbb;
+    text-decoration:underline;
+}
